@@ -1,5 +1,5 @@
 <htm1>
-<title> Лягушки </title>
+<h1> Лягушки </h1>
 <img src="https://photos.app.goo.gl/oFhcqGtZVfbXecqD7"width="10px" height="10px"
 <body>
 <header>
